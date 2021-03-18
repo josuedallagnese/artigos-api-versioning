@@ -1,1 +1,1 @@
-#### Exemplos de artigos publicados em https://medium.com/@josofd
+#### Artigo publicado em https://josuedallagnese.medium.com/versionamento-de-api-em-asp-net-core-137f7fb7c2e6
